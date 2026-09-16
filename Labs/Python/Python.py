@@ -1,1 +1,0 @@
-g = input("are you having fun?")
